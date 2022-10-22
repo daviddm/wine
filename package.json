@@ -1,0 +1,11 @@
+{
+  "name": "wine",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^10.10.0",
+    "dotenv": "^16.0.3",
+    "faker": "5.5.3"
+  }
+}
